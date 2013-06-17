@@ -5,6 +5,6 @@ Authors:
 
 cxboy - Manager, Author
 
-diamex - Contributor
+diemex - Contributor
 
 kreashenz - Contributor
