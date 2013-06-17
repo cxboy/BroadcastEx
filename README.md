@@ -1,7 +1,7 @@
 BroadcastEx
 ===========
 
-Authros:
+Authors:
 
 cxboy - Manager, Author
 
