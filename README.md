@@ -1,4 +1,9 @@
 BroadcastEx
 ===========
 
-Just Another Broadcast Plugin.
+Authros:
+cxboy - Manager, Author
+diamex - Contributor
+kreashenz - Contributor
+
+On BukkitDev - Updating...
